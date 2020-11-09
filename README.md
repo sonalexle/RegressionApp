@@ -1,7 +1,6 @@
 # RegressionApp
 
-A project for the course CS-A2120 Programming Studio 2: Project at Aalto University. 
-Reference on request.
+A project for the course CS-A2120 Programming Studio 2: Project at Aalto University.
 
 This app will fit linear regression and quadratic regression models to a dataset
 and visualize those models along with the data points. Some simple dianogstics such as
