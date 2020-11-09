@@ -5,5 +5,5 @@ Reference on request.
 
 This app will fit linear regression and quadratic regression models to a dataset
 and visualize those models along with the data points. Some simple dianogstics such as
-coefficient of determination are also included. The app can fit the models to datasets
+coefficient of determination are also included. The app can fit the models to datasets with
 hundreds of millions of data points in only a few minutes.
