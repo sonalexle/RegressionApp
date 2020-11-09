@@ -8,6 +8,6 @@ and visualize those models along with the data points. Some simple dianogstics s
 coefficient of determination are also included. The app can fit the models to datasets with
 hundreds of millions of data points in only a few minutes.
 
-![The main GUI](https://i.imgur.com/2KMfi8d.png)
+![Imgur](https://i.imgur.com/gu8WQ1p.png)
 
-![Some tabs of the program](https://i.imgur.com/XhOGTxf.png)
+![Imgur](https://i.imgur.com/Eh5NeoR.png)
