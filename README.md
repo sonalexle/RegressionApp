@@ -2,10 +2,7 @@
 
 A project for the course CS-A2120 Programming Studio 2: Project at Aalto University.
 
-This app will fit linear regression and quadratic regression models to a dataset
-and visualize those models along with the data points. Some simple dianogstics such as
-coefficient of determination are also included. The app can fit the models to datasets with
-hundreds of millions of data points in only a few minutes.
+A Scala app that fits linear regression and quadratic regression models to a dataset and visualizes the fit along with the data points. Simple metrics such as coefficient of determination are also displayed. The app can fit the models to datasets with hundreds of millions of data points in only a few minutes.
 
 ## Usage:
 
